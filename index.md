@@ -1,6 +1,6 @@
 ## Team Members
 
-Matthew MacEachern test<br>
+Matthew MacEachern <br>
 Hassaan Ahmed <br>
 Benjamin Zaganjori <br>
 Tushar Chand <br>
