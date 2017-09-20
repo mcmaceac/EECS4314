@@ -28,6 +28,8 @@ Assignment is based on version 8.0.2:
 Data Dictonary added Feature for version 8.0:
 - [MySQL Data Dictionary Architecture and Info](http://mysqlserverteam.com/mysql-8-0-data-dictionary-architecture-and-design/)
 
+2015 Video Description of MySQL Architecture with MySQL InnoDB/MyISAM explanation
+- [MySQL Architecture](https://www.youtube.com/watch?v=Xvhi63cZADo)
 
 ## Assignment 2
 
