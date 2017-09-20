@@ -16,6 +16,9 @@ Architecture:
 - [MySQL Blog](http://mysqladvice.blogspot.ca/2013/12/mysql-architecture.html)
 - [MySQL Architecture Paper (2002)](https://s2.smu.edu/~rkotamarti/mysql.pdf)
 
+Forums:
+- [MySQL Official Forum](https://forums.mysql.com/)
+
 
 ## Assignment 1
 
