@@ -31,6 +31,9 @@ Data Dictonary added Feature for version 8.0:
 2015 Video Description of MySQL Architecture with MySQL InnoDB/MyISAM explanation
 - [MySQL Architecture](https://www.youtube.com/watch?v=Xvhi63cZADo)
 
+MySQL 8.0 Doxygen documentation (includes UML and sequence diagrams)
+- http://mysqlserverteam.com/mysql-8-0-now-documented-with-doxygen/
+
 ## Assignment 2
 
 ## Assignment 3
