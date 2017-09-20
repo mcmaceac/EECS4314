@@ -11,7 +11,7 @@
 ## Useful Links
 Documentation:
 - [MySQL Documentation Homepage](https://dev.mysql.com/doc/)
-- [MySQL Internals Documentation](https://dev.mysql.com/doc/internals/en/)
+- [MySQL Internals Documentation***](https://dev.mysql.com/doc/internals/en/)
 
 Architecture:
 - [MySQL Blog](http://mysqladvice.blogspot.ca/2013/12/mysql-architecture.html)
