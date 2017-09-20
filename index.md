@@ -22,8 +22,11 @@ Forums:
 
 
 ## Assignment 1
-Assignment is based on version 8.0.2
+Assignment is based on version 8.0.2:
 - [MySQL version8.0-8.0.4 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/mysql-nutshell.html)
+
+Data Dictonary added Feature for version 8.0:
+- [MySQL Data Dictionary Architecture and Info](http://mysqlserverteam.com/mysql-8-0-data-dictionary-architecture-and-design/)
 
 
 ## Assignment 2
