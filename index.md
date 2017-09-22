@@ -38,7 +38,7 @@ MySQL Architecture, History & How it works
 - [MySQL Architecture and History](https://www.safaribooksonline.com/library/view/high-performance-mysql/9781449332471/ch01.html)
 
 MySQL Internals
-- [MySQL Internals] (https://www.safaribooksonline.com/library/view/understanding-mysql-internals/0596009577/ch01s02.html)
+- [MySQL Internals](https://www.safaribooksonline.com/library/view/understanding-mysql-internals/0596009577/ch01s02.html)
 
 ## Assignment 2
 
