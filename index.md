@@ -1,12 +1,12 @@
 ## Team Members
 
-- Matthew MacEachern 
-- Hassaan Ahmed 
-- Benjamin Zaganjori 
-- Tushar Chand 
-- Daiwei Zhou 
-- Shagun Kazan 
-- Dan Sheng 
+- Matthew MacEachern
+- Hassaan Ahmed
+- Benjamin Zaganjori
+- Tushar Chand
+- Daiwei Zhou
+- Shagun Kazan
+- Dan Sheng
 
 ## Useful Links
 Documentation:
@@ -33,6 +33,12 @@ Data Dictonary added Feature for version 8.0:
 
 MySQL 8.0 Doxygen documentation (includes UML and sequence diagrams)
 - http://mysqlserverteam.com/mysql-8-0-now-documented-with-doxygen/
+
+MySQL Architecture, History & How it works
+- [MySQL Architecture and History](https://www.safaribooksonline.com/library/view/high-performance-mysql/9781449332471/ch01.html)
+
+MySQL Internals
+- [MySQL Internals] (https://www.safaribooksonline.com/library/view/understanding-mysql-internals/0596009577/ch01s02.html)
 
 ## Assignment 2
 
