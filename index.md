@@ -40,6 +40,10 @@ MySQL Architecture, History & How it works
 MySQL Internals
 - [MySQL Internals](https://www.safaribooksonline.com/library/view/understanding-mysql-internals/0596009577/ch01s02.html)
 
+[Assignment 1 Presentation Slides](https://docs.google.com/a/yorku.ca/presentation/d/1uXyy6BNy5paWNZ9Leblvz_OpSgKnuuWA6bmEGUY1ZsI/edit?usp=sharing)
+
+[Assignment 1 Report](https://docs.google.com/a/yorku.ca/document/d/1Wp6TZ9IfUIo-8H6H1jEewiWgJEN5QWrr4uIEgjHZP5M/edit?usp=sharing)
+
 ## Assignment 2
 
 ## Assignment 3
