@@ -37,6 +37,13 @@ MySQL 8.0 Doxygen documentation (includes UML and sequence diagrams)
 MySQL Architecture, History & How it works
 - [MySQL Architecture and History](https://www.safaribooksonline.com/library/view/high-performance-mysql/9781449332471/ch01.html)
 
+Evolving a Database with MySQL
+- [Evolving a database with MySQL by Willem Bogaerts - Kratz Business Solutions] (https://www.howtoforge.com/tutorial/evolving-a-database-with-mysql/)
+
+How My SQL handles concurrency
+- [StackOverFlow - How Does Concurrency in MySQL work and how to handle it] (https://stackoverflow.com/questions/4828490/mysql-concurrency-how-does-it-work-and-do-i-need-to-handle-it-in-my-applicatio)
+- [StackOverflow - How to deal with Concurrent Updates in MySQL] (https://stackoverflow.com/questions/1195858/how-to-deal-with-concurrent-updates-in-databases)
+
 MySQL Internals
 - [MySQL Internals](https://www.safaribooksonline.com/library/view/understanding-mysql-internals/0596009577/ch01s02.html)
 
