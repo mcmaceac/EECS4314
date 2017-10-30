@@ -53,6 +53,8 @@ MySQL Internals
 
 ## Assignment 2
 
+Presentation: https://docs.google.com/presentation/d/11F5nrT1E8WiEKX01Tfq_UXJnWBBthJxTOyRdU17rL_c/edit#slide=id.g2a6d5abb4f_0_0
+Report: https://docs.google.com/document/d/1xQmUpi5_TQQy_MwygM31RZyMYHYta6tCtuy-DJhM4v4/edit#
 ## Assignment 3
 
 ## Assignment 4
