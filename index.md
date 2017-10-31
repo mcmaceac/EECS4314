@@ -47,15 +47,17 @@ How My SQL handles concurrency
 MySQL Internals
 - [MySQL Internals](https://www.safaribooksonline.com/library/view/understanding-mysql-internals/0596009577/ch01s02.html)
 
+## Assignment 1
+
 [Assignment 1 Presentation Slides](https://docs.google.com/a/yorku.ca/presentation/d/1uXyy6BNy5paWNZ9Leblvz_OpSgKnuuWA6bmEGUY1ZsI/edit?usp=sharing)
 
 [Assignment 1 Report](https://docs.google.com/a/yorku.ca/document/d/1Wp6TZ9IfUIo-8H6H1jEewiWgJEN5QWrr4uIEgjHZP5M/edit?usp=sharing)
 
 ## Assignment 2
 
-[Presentation:](https://docs.google.com/presentation/d/11F5nrT1E8WiEKX01Tfq_UXJnWBBthJxTOyRdU17rL_c/edit#slide=id.g2a6d5abb4f_0_0)
+[Presentation](https://docs.google.com/presentation/d/11F5nrT1E8WiEKX01Tfq_UXJnWBBthJxTOyRdU17rL_c/edit#slide=id.g2a6d5abb4f_0_0)
 
-[Report:](https://docs.google.com/document/d/1xQmUpi5_TQQy_MwygM31RZyMYHYta6tCtuy-DJhM4v4/edit#)
+[Report](https://docs.google.com/document/d/1xQmUpi5_TQQy_MwygM31RZyMYHYta6tCtuy-DJhM4v4/edit#)
 ## Assignment 3
 
 ## Assignment 4
