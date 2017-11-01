@@ -59,19 +59,19 @@ MySQL Internals
 
 [Assignment 2 Report](https://docs.google.com/document/d/1xQmUpi5_TQQy_MwygM31RZyMYHYta6tCtuy-DJhM4v4/edit#)
 
-[Binary Log Classes] (https://dev.mysql.com/doc/dev/mysql-server/8.0.1/namespacebinary__log.html)
+[Binary Log Classes](https://dev.mysql.com/doc/dev/mysql-server/8.0.1/namespacebinary__log.html)
 
-[mysqlbinlog] (https://dev.mysql.com/doc/refman/5.5/en/mysqlbinlog.html)
+[mysqlbinlog](https://dev.mysql.com/doc/refman/5.5/en/mysqlbinlog.html)
 
-[Backup & Recover] (https://dev.mysql.com/doc/refman/5.7/en/backup-and-recovery.html)
+[Backup & Recover](https://dev.mysql.com/doc/refman/5.7/en/backup-and-recovery.html)
 
-[Group Replication Plugin Architecture] (https://dev.mysql.com/doc/refman/5.7/en/group-replication-plugin-architecture.html)
+[Group Replication Plugin Architecture](https://dev.mysql.com/doc/refman/5.7/en/group-replication-plugin-architecture.html)
 
-[Binary Log] (https://dev.mysql.com/doc/refman/5.5/en/binary-log.html)
+[Binary Log](https://dev.mysql.com/doc/refman/5.5/en/binary-log.html)
 
-[InnoDB Recovery] (https://dev.mysql.com/doc/refman/5.5/en/innodb-recovery.html)
+[InnoDB Recovery](https://dev.mysql.com/doc/refman/5.5/en/innodb-recovery.html)
 
-[Replication Implementation Details] (https://dev.mysql.com/doc/refman/5.5/en/replication-implementation-details.html
+[Replication Implementation Details](https://dev.mysql.com/doc/refman/5.5/en/replication-implementation-details.html
 
 ## Assignment 3
 
