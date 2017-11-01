@@ -71,7 +71,7 @@ MySQL Internals
 
 [InnoDB Recovery](https://dev.mysql.com/doc/refman/5.5/en/innodb-recovery.html)
 
-[Replication Implementation Details](https://dev.mysql.com/doc/refman/5.5/en/replication-implementation-details.html
+[Replication Implementation Details](https://dev.mysql.com/doc/refman/5.5/en/replication-implementation-details.html)
 
 ## Assignment 3
 
