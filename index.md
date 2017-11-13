@@ -75,4 +75,8 @@ MySQL Internals
 
 ## Assignment 3
 
+[Assignment 3 Presentation](https://docs.google.com/a/yorku.ca/presentation/d/1TqHiWoxlV6YzVThxv5qyPYtttz52KHOTLHTqDttduo0/edit?usp=sharing)
+
+[Assignment 3 Report](https://docs.google.com/a/yorku.ca/document/d/10YiCwougDBun35bLvumkHA9klOkzsQMxzAaDdF2pvV4/edit?usp=sharing)
+
 ## Assignment 4
