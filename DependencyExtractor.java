@@ -65,7 +65,8 @@ class DependencyExtractor {
 						line = br.readLine();
 						while (line != null) {
 							if (line.startsWith("#include")) {
-								list.add(line.substring(10, line.length() - 3));
+								line = line.substring(10, line.length() - 1);
+								list.add(line.split("[\"> ]")[0]);
 							}
 							else if (line.startsWith("import")) {
 								list.add(line.substring(7, line.length() - 1));
@@ -78,7 +79,6 @@ class DependencyExtractor {
 					}
 					
 					for (String l : list) {
-						//String include_string = l.substring(10, l.length() - 3);
 						String outString = fileEntry.getPath() + " -> " + l;
 						output.println(outString);
 					}
