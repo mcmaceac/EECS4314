@@ -17,8 +17,8 @@ rm tmp.xml
 
 # We are now working with "copy.xml"
 
-# Shitty in/out var for <unit></unit> blocks
-# 0	- Outside
+# In/out var for <unit></unit> blocks
+# 0 - Outside
 # 1 - Inside C/C++
 # 2 - Inside Java
 inside=0
