@@ -17,7 +17,7 @@ public class compareDependencies {
 		int c1 = countTotalDependencies(inFile);
 		System.out.println("Number of dependencies in " + inFile.getName() + ": " + c1);
 		int c2 = countTotalDependencies(inFile2);
-		System.out.println("Number of dependencies in " + inFile.getName() + ": " + c2);
+		System.out.println("Number of dependencies in " + inFile2.getName() + ": " + c2);
 
 		if (c1 > c2) {
 			commonDependencies = compareFiles(inFile, inFile2);
