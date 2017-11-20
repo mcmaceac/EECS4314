@@ -10,11 +10,6 @@ file=$1
 #	- Java files:	.java
 #		- These are similar in <unit>, but use <import>
 
-# Remove the "container" <unit> for the xml
-tail -n+4 $file > tmp.xml
-head -n -2 tmp.xml > copy.xml
-rm tmp.xml
-
 # We are now working with "copy.xml"
 
 # In/out var for <unit></unit> blocks
@@ -61,5 +56,3 @@ while read -r line; do
 		echo "$base -> $dep" >> srcml.txt
 	fi
 done < $file
-
-rm copy.xml
