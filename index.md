@@ -80,3 +80,6 @@ MySQL Internals
 [Assignment 3 Report](https://docs.google.com/a/yorku.ca/document/d/10YiCwougDBun35bLvumkHA9klOkzsQMxzAaDdF2pvV4/edit?usp=sharing)
 
 ## Assignment 4
+[Assignment 4 Presentation](https://docs.google.com/a/yorku.ca/presentation/d/18_tUpkKoqA6MzlUT_yYr_lllXL5JP55j1Rly7t1zuGI/edit?usp=sharing)
+
+[Assignment 4 Report](https://docs.google.com/a/yorku.ca/document/d/1o7nlw_s1WdNp8yJWL4msjUFIM4-GclQUM9CI4GsDXmA/edit?usp=sharing)
